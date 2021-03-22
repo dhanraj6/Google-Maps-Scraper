@@ -11,4 +11,6 @@ A python Script to scrape data from google maps.
 
 3. Add the link of google map place whose data you want to scrape in above .py file
 
+## If it helped you!
+
 <a href="https://www.buymeacoffee.com/dhanr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
