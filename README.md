@@ -1,4 +1,7 @@
-# Google-Maps-Scraper
+# Google-Maps-Scraper   ## If it helped you!
+
+<a href="https://www.buymeacoffee.com/dhanr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 A python Script to scrape data from google maps.
 
 ### Step by step guidence to run this file in my medium post click [here](https://medium.com/@dhanrajpawar798/scraping-data-from-google-maps-using-a-python-12091f367d38?source=friends_link&sk=e441dad86107208d3d0215494b1d2dda).
