@@ -12,8 +12,8 @@ A python Script to scrape data from google maps.
 
 3. Add the link of google map place whose data you want to scrape in above .py file
 
-## Note
-Google Maps UI changes frequently if you get any errors on running just replace id's for clickable items
+### Note
+Google Maps UI changes frequently if you get any errors on running just replace older id's with new id's for clickable items
 
 ## If it helped you!
 
